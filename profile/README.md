@@ -1,4 +1,5 @@
 # 工具介绍
+[https://gitee.com/hustai/FourthDimension](https://gitee.com/hustai/FourthDimension)
 FourthDimension（第四维度）由华中科技大学人工智能与嵌入式实验室联合言图科技研发，是一款基于大语言模型的智能检索增强生成（RAG）系统，提供私域知识库、文档问答等多种服务。此外，FourthDimension提供便捷的本地部署方法，方便用户在本地环境中搭建属于自己的应用平台。
 
 ### 工具特点
